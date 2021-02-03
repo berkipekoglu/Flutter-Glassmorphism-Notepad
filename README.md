@@ -1,6 +1,11 @@
 # glassmorphism_ui
 
 Flutter ile Glassmorphism üzerine not defteri çalışması.
+<i> Arka plan renginde iyileştirmeye gitmem gerekiyor. İlk glassmorphism çalışmam olduğundan kavramla ilgili değerleri tam gösterebilmiş sayılmam. </i>
+
+<b> Demo görünüm </b>
+
+<img src="https://github.com/berkipekoglu/Flutter-Glassmorphism-Notepad/blob/main/1.jpg" width="540" height="1162" alt="berk ipekoglu" /> <img src="https://github.com/berkipekoglu/Flutter-Glassmorphism-Notepad/blob/main/2.jpg" width="540" height="1162" alt="berk ipekoglu" />
 
 ## Getting Started
 
